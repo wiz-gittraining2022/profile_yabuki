@@ -1,0 +1,4 @@
+          <tr>
+            <td>[ブログ作成日]</td>
+            <td><a href="blogs/[ブログ作成日 yyyymmdd].html" target="_blank">[ブログタイトル]</a></td>
+          </tr>
