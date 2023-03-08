@@ -1,5 +1,0 @@
-          <tr>
-            <td>[日付]</td>
-            <td>[ニックネーム]</td>
-            <td><a href="blogs/[ファイル].html" target="_blank">[タイトル]</a></td>
-          </tr>
